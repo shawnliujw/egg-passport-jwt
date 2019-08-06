@@ -7,4 +7,5 @@
  */
 exports.passportJwt = {
   secret: '',
+  enable: false,
 };
